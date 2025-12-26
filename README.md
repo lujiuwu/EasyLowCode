@@ -1,6 +1,6 @@
 
 <h2 align="center">
-LudLowCode
+EasyLowCode
 </h2>
 <p align="center">
 可视化搭建，拖拽生成移动端页面
@@ -22,7 +22,7 @@ Mobile Page Builder&Generator with Drag&Drop
 
 ### 目录
 
-- [LudLowCode是什么？](#%E9%B2%81%E7%8F%ADh5%E6%98%AF%E4%BB%80%E4%B9%88)
+- [EasyLowCode是什么？](#%E9%B2%81%E7%8F%ADh5%E6%98%AF%E4%BB%80%E4%B9%88)
 - [在线预览](#demo)
 - [马上开始](#%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B)
 - [更多说明](#%E6%9B%B4%E5%A4%9A%E8%AF%B4%E6%98%8E)
@@ -31,21 +31,21 @@ Mobile Page Builder&Generator with Drag&Drop
 - [如何贡献](#%E4%BA%A4%E6%B5%81%E7%BE%A4)
 
 
-#### Lud低代码开发平台是什么？
+#### Easy低代码开发平台是什么？
 
-1. Lud低代码开发平台是基于Vue3.0+TS开发、集成Element-Plus组件库，通过拖拽快速生成页面的平台
+1. Easy低代码开发平台是基于Vue3.0+TS开发、集成Element-Plus组件库，通过拖拽快速生成页面的平台
 2. 类似 [易企秀](http://www.eqxiu.com/)、[Maka](http://maka.im/)、[百度 H5](https://h5.baidu.com) 等平台
 
 #### 在线预览
 
 > 项目已挂载到github pages上
-> [在线访问地址](https://lujiuwu.github.io/LudLowCode/)
+> [在线访问地址](https://lujiuwu.github.io/EasyLowCode/)
 
 #### 马上开始
 
 ```shell
-# git clone https://github.com/lujiuwu/LudLowCode.git
-# cd lud
+# git clone https://github.com/lujiuwu/EasyLowCode.git
+# cd Easy
 
 # npm run serve 
 # npm run build
